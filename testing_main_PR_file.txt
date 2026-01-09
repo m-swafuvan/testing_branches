@@ -1,0 +1,7 @@
+Testing the file to be added via PR into main branch only.
+
+PASS case:
+Merged into main branch only.
+
+FAIL case:
+Merged into release/qa and release/qa1 branches.
